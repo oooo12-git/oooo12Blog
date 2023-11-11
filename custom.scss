@@ -128,8 +128,10 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   }
 
   &-brand {
+    display: none;
     margin-right: 2rem;
   }
+}
 }
 
 .navbar-dark {
