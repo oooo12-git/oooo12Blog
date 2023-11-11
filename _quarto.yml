@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "oooo12"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: 
+    - lux
+    - custom.scss
+    fontsize: 1.1em
+    linestretch: 1.7
+    css: styles.css
+
+editor: visual
+execute:
+  freeze: auto
+
