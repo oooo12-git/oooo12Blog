@@ -1,5 +1,5 @@
 ---
-title: "data blog by oooo12"
+title: "oooo12"
 listing:
   contents: posts
   sort: "date desc"
