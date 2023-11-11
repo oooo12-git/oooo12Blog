@@ -131,11 +131,12 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
     display: none;
     margin-right: 2rem;
   }
+  &-dark{
+    background-color: $navbar-background;
+  }
 }
 
-.navbar-dark {
-  background-color: $navbar-background;
-}
+
 
 .bg-light {
   border: 1px solid rgba(0, 0, 0, .1);
