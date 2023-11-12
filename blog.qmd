@@ -1,0 +1,12 @@
+---
+sidebar: True
+listing:
+ contents: posts
+ sort: "date desc"
+ type: table
+ fields: [date, title, reading-time, date-modified]
+ feed: true
+ categories: false
+ sort-ui: false
+ filter-ui: false
+---
