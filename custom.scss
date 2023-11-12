@@ -128,8 +128,9 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   }
 
   &-brand {
-    display: none;
+    //display: none;
     margin-right: 2rem;
+    font-size: 1rem;
   }
   &-dark{
     background-color: $navbar-background;
@@ -285,6 +286,7 @@ th {
 
 // Quarto-title-banner
 .quarto-title-banner{
+  display: none;
   background : $white;
 }
 
