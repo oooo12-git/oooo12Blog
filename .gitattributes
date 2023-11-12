@@ -1,2 +1,4 @@
 *.html linguist-vendored
+*.json linguist-vendored
 *.qmd  linguist-detectable
+*.yml  linguist-detectable
