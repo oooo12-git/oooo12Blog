@@ -5,14 +5,13 @@ date: "2023-11-07"
 date-modified: "2023-11-12"
 categories: [parameter, null hypothesis, type 1 error]
 page-navigation: true
-
 ---
 
 Statistical hypothesis testing, when explained plainly, means to "test a statistical hypothesis."
 
 To understand hypothesis testing, it's necessary to know exactly what a 'statistical hypothesis' is.
 
-## 0. Statistical Hypothesis 
+## 0. Statistical Hypothesis
 
 A statistical hypothesis is different from a regular hypothesis.
 
@@ -22,34 +21,34 @@ Converted into a statistical hypothesis, it could be stated as "The preference f
 
 While the meaning of both hypotheses is the same, a statistical hypothesis involves a parameter.
 
-In the example, the qualitative description of "being popular" is quantified into a measure of [preference].
+In the example, the qualitative description of "being popular" is quantified into a measure of \[preference\].
 
 A statistical hypothesis is thus a claim (hypothesis) about what the value of a parameter should be.
 
 To test whether a statistical hypothesis is true, one must go through eight steps:
 
-   - Define the parameter.
-   - Set the null hypothesis (H0) and the alternative hypothesis (H1).
-   - Set the significance level.
-   - Determine the test statistic.
-   - Determine the rejection region.
-   - Calculate the value of the test statistic.
-   - Decide if the test statistic value falls within the rejection region.
-   - Calculate the p-value.
-   
-   Not all these steps must be followed absolutely.
+-   Define the parameter.
+-   Set the null hypothesis (H0) and the alternative hypothesis (H1).
+-   Set the significance level.
+-   Determine the test statistic.
+-   Determine the rejection region.
+-   Calculate the value of the test statistic.
+-   Decide if the test statistic value falls within the rejection region.
+-   Calculate the p-value.
+
+Not all these steps must be followed absolutely.
 
 However, knowing all these steps helps greatly in understanding hypothesis testing.
 
 ## 1. Defining the Parameter
 
-In the earlier example, "The preference for Starbucks coffee is greater than that for Mega Coffee," I referred to [preference] as the parameter.
+In the earlier example, "The preference for Starbucks coffee is greater than that for Mega Coffee," I referred to \[preference\] as the parameter.
 
-It's more appropriate to consider the parameter as [the difference between the average preference for Starbucks coffee and Mega Coffee].
+It's more appropriate to consider the parameter as \[the difference between the average preference for Starbucks coffee and Mega Coffee\].
 
-If [the average preference for Starbucks coffee - the average preference for Mega Coffee] > 0, then the hypothesis "The preference for Starbucks coffee is greater than that for Mega Coffee" is valid.
+If \[the average preference for Starbucks coffee - the average preference for Mega Coffee\] \> 0, then the hypothesis "The preference for Starbucks coffee is greater than that for Mega Coffee" is valid.
 
-But merely looking at [preference] is not sufficient to claim the hypothesis is valid.
+But merely looking at \[preference\] is not sufficient to claim the hypothesis is valid.
 
 This example falls under hypothesis testing using the difference in means of two populations.
 
@@ -77,9 +76,7 @@ Newer claims or underdog propositions, like intelligent design, are set as the a
 
 Hypothesis testing is ultimately a means of decision-making.
 
-The decision could be either:
-   - "Reject the null hypothesis."
-   - "Do not reject the null hypothesis."
+The decision could be either: - "Reject the null hypothesis." - "Do not reject the null hypothesis."
 
 When making such decisions, it's vital to consider the consequences of a wrong decision.
 
@@ -115,6 +112,6 @@ A Type II Error, on the other hand, would mean failing to reject the theory of e
 
 For this reason, hypothesis testing places more emphasis on controlling Type I Errors by setting a significance level.
 
----
+------------------------------------------------------------------------
 
 ✍️ Edited on 2023. 10. 20 Before learning about Parametric Methods, it's good to know about Parameters. The term 'Parameter' has several meanings, which I will mention later. Parameter.

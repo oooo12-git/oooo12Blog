@@ -1,7 +1,7 @@
 ---
 sidebar: True
 listing:
- contents: posts
+ contents: blog
  sort: "date desc"
  type: table
  fields: [date, title, reading-time, date-modified]
