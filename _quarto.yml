@@ -4,7 +4,7 @@ project:
 website:
   title: "oooo12"
   favicon: favicon.png
-  site-url: https://oooo12.ooo
+  site-url: https://oooo12.ooo #site-url을 넣어줘야 구글 서치콘솔에서 sitemap.xml 올바르게 인식됨.
   description: "데이터, 통계"
   google-analytics: "G-P3Y308G0NM"
   search:
@@ -26,7 +26,7 @@ website:
     contents: /*
     
   page-footer: 
-    left: "Copyright 2023, Jaa Hyun Kim" 
+    left: "Copyright 2023, Jaa Hyun Kim, This Blog is using Quarto, RStudio" 
     right: 
       - icon : github
         href: https://github.com/oooo12-git
