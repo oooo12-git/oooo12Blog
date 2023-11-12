@@ -26,7 +26,8 @@ website:
     contents: /*
     
   page-footer: 
-    left: "Copyright 2023, Jaa Hyun Kim, This blog is being created using Quarto and Rstudio." 
+    left: "Copyright 2023, Jaa Hyun Kim"
+    center: "This blog is being created using Quarto and Rstudio."
     right: 
       - icon : github
         href: https://github.com/oooo12-git
