@@ -1,0 +1,120 @@
+---
+title: "Hypothesis Testing (1)"
+author: "oooo12"
+date: "2023-11-07"
+date-modified: "2023-11-12"
+categories: [parameter, null hypothesis, type 1 error]
+page-navigation: true
+
+---
+
+Statistical hypothesis testing, when explained plainly, means to "test a statistical hypothesis."
+
+To understand hypothesis testing, it's necessary to know exactly what a 'statistical hypothesis' is.
+
+## 0. Statistical Hypothesis 
+
+A statistical hypothesis is different from a regular hypothesis.
+
+For example, a regular hypothesis might state, "Starbucks coffee is more popular than Mega Coffee."
+
+Converted into a statistical hypothesis, it could be stated as "The preference for Starbucks coffee is greater than that for Mega Coffee."
+
+While the meaning of both hypotheses is the same, a statistical hypothesis involves a parameter.
+
+In the example, the qualitative description of "being popular" is quantified into a measure of [preference].
+
+A statistical hypothesis is thus a claim (hypothesis) about what the value of a parameter should be.
+
+To test whether a statistical hypothesis is true, one must go through eight steps:
+
+   - Define the parameter.
+   - Set the null hypothesis (H0) and the alternative hypothesis (H1).
+   - Set the significance level.
+   - Determine the test statistic.
+   - Determine the rejection region.
+   - Calculate the value of the test statistic.
+   - Decide if the test statistic value falls within the rejection region.
+   - Calculate the p-value.
+   
+   Not all these steps must be followed absolutely.
+
+However, knowing all these steps helps greatly in understanding hypothesis testing.
+
+## 1. Defining the Parameter
+
+In the earlier example, "The preference for Starbucks coffee is greater than that for Mega Coffee," I referred to [preference] as the parameter.
+
+It's more appropriate to consider the parameter as [the difference between the average preference for Starbucks coffee and Mega Coffee].
+
+If [the average preference for Starbucks coffee - the average preference for Mega Coffee] > 0, then the hypothesis "The preference for Starbucks coffee is greater than that for Mega Coffee" is valid.
+
+But merely looking at [preference] is not sufficient to claim the hypothesis is valid.
+
+This example falls under hypothesis testing using the difference in means of two populations.
+
+For a simpler example, consider hypothesis testing for a population mean.
+
+## 2. Setting the Null and Alternative Hypotheses
+
+### 2.1 Null Hypothesis
+
+The concept of the status quo is applied in the null hypothesis.
+
+Status quo, a Latin term, means "the existing state of affairs."
+
+For instance, consider hypothesis testing to determine which is more valid: the theory of evolution or intelligent design. What is the current status quo?
+
+More precisely, which hypothesis currently holds a dominant position?
+
+It would presumably be the theory of evolution.
+
+In hypothesis testing, the status quo is applied to set the null hypothesis.
+
+Newer claims or underdog propositions, like intelligent design, are set as the alternative hypothesis.
+
+### 2.2 Decision-Making Considers the Worst-Case Scenario
+
+Hypothesis testing is ultimately a means of decision-making.
+
+The decision could be either:
+   - "Reject the null hypothesis."
+   - "Do not reject the null hypothesis."
+
+When making such decisions, it's vital to consider the consequences of a wrong decision.
+
+For instance, consider the decision "Should I invest all my money in secondary battery stocks or not?"
+
+What's crucial here is not what happens if the decision is right, but what if it's wrong.
+
+The worst-case scenario in a wrong decision would be: "I invested all my money in secondary battery stocks, and they plummeted. I'm left with nothing."
+
+It's important to assess if one can withstand the impact of a wrong decision.
+
+If one can survive even in the worst-case scenario, then even a wrong decision like "investing all in secondary battery stocks" might not be too problematic.
+
+However, if there's no way to recover from such a loss, then one shouldn't make that investment.
+
+The potential for irreparable damage in the worst-case scenario is why we must consider it in any decision-making process, including statistical hypothesis testing.
+
+### 2.3. Type I and Type II Errors
+
+A Type I Error (or a False Positive) occurs when the null hypothesis is true, but it is wrongly rejected.
+
+A Type II Error (or a False Negative) happens when the null hypothesis is false, but it is not rejected.
+
+Among these two errors, hypothesis testing places more significance on Type I Errors.
+
+Why is this?
+
+Let's return to the example of evolution and intelligent design.
+
+If a Type I Error occurs in this context, it would mean rejecting the theory of evolution, which holds the status quo. This would result in a paradigm shift, causing significant societal impact.
+
+A Type II Error, on the other hand, would mean failing to reject the theory of evolution, maintaining the status quo. As most people are already familiar with this theory, it would likely not cause societal disruption.
+
+For this reason, hypothesis testing places more emphasis on controlling Type I Errors by setting a significance level.
+
+---
+
+✍️ Edited on 2023. 10. 20 Before learning about Parametric Methods, it's good to know about Parameters. The term 'Parameter' has several meanings, which I will mention later. Parameter.
