@@ -1,6 +1,5 @@
 project:
-  type: website
-  output-dir: ./_site/en
+  output-dir: ./_site
   
 website:
   title: "oooo12"
@@ -9,27 +8,23 @@ website:
   description: "data, statistics"
   google-analytics: "G-P3Y308G0NM"
   search:
-    type: textbox
-  sidebar: 
-    style: "docked"
+    type: overlay
+  navbar: 
     title: "oooo12"
-    tools:
+    background: "light"
+    left:
       - icon : github
         href: https://github.com/oooo12-git
       - icon: linkedin
-        text: LinkedIn
         href: https://www.linkedin.com/in/oooo12
       - icon : instagram
-        text: Instagram
         href: https://www.instagram.com/jaahyunssi/
-      
-    logo: profile.png
     pinned: true
-    contents: 
+    right: 
       - text: "Blog"
         href: ./blog.qmd
       - text: "한국어"
-        href: ../ko
+        href: ./ko
       
     
   page-footer: 
