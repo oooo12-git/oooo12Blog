@@ -50,6 +50,5 @@ format:
       margin-width: 300px
       gutter-width: 1.5em
       
-editor: visual
 execute:
   freeze: auto

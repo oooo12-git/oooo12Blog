@@ -56,7 +56,6 @@ format:
 
 lang: en
 
-editor: visual
 execute:
   freeze: auto
 
