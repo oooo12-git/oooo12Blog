@@ -1,54 +1,7 @@
 project:
   type: website
-
-website:
-  title: "oooo12"
-  favicon: favicon.png
-  site-url: https://oooo12.ooo #site-url을 넣어줘야 구글 서치콘솔에서 sitemap.xml 올바르게 인식됨.
-  description: "데이터, 통계"
-  google-analytics: "G-P3Y308G0NM"
-  search:
-    type: textbox
-  sidebar: 
-    style: "docked"
-    title: "oooo12"
-    tools:
-      - icon : github
-        href: https://github.com/oooo12-git
-      - icon: linkedin
-        text: LinkedIn
-        href: https://www.linkedin.com/in/oooo12
-      - icon : instagram
-        text: Instagram
-        href: https://www.instagram.com/jaahyunssi/
-    logo: profile.png
-    pinned: true
-    contents: /*
-    
-  page-footer: 
-    left: "Copyright 2023, Jaa Hyun Kim"
-    center: "This blog is being created using Quarto and Rstudio."
-    right: 
-      - icon : github
-        href: https://github.com/oooo12-git
-      - icon: linkedin
-        href: https://www.linkedin.com/in/oooo12
-      - icon : instagram
-        href: https://www.instagram.com/jaahyunssi/
-
-format:
-  html:
-    mainfont: Josefin Sans
-    fontsize: 1.1em
-    linestretch: 1.7
-    grid: 
-      sidebar-width: 300px
-      body-width: 800px
-      margin-width: 300px
-      gutter-width: 1.5em
-    toc: true
-
-editor: visual
-execute:
-  freeze: auto
-
+  
+profile:
+  default: en
+  group: 
+    - [en, ko]
