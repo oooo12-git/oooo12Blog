@@ -13,6 +13,8 @@ website:
     title: "oooo12"
     background: "light"
     left:
+      - text: "Blog"
+        href: ./blog.qmd
       - icon : github
         href: https://github.com/oooo12-git
       - icon: linkedin
@@ -21,8 +23,6 @@ website:
         href: https://www.instagram.com/jaahyunssi/
     pinned: true
     right: 
-      - text: "Blog"
-        href: ./blog.qmd
       - text: "한국어"
         href: ./ko
       
@@ -30,7 +30,7 @@ website:
   page-footer: 
     left: "Copyright 2023, Jae Hyun Kim"
     center: "This blog is being created using Quarto and Rstudio."
-    right: 
+    right:
       - icon : github
         href: https://github.com/oooo12-git
       - icon: linkedin
@@ -40,7 +40,7 @@ website:
 
 format:
   html:
-    mainfont: san-serif
+    mainfont: sanserif
     fontsize: 1.1em
     linestretch: 1.7
     grid: 

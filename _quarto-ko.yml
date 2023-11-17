@@ -13,6 +13,8 @@ website:
     title: "oooo12"
     background: "light"
     left:
+      - text: "Blog"
+        href: ../ko/blog.html
       - icon : github
         href: https://github.com/oooo12-git
       - icon: linkedin
@@ -21,8 +23,6 @@ website:
         href: https://www.instagram.com/jaahyunssi/
     pinned: true
     right: 
-      - text: "Blog"
-        href: ./blog.qmd
       - text: "English"
         href: ..
 
@@ -41,7 +41,7 @@ lang: ko-KR
 
 format:
   html:
-    mainfont: san-serif
+    mainfont: sanserif
     fontsize: 0.9 em
     linestretch: 1.7
     grid: 
