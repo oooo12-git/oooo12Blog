@@ -5,6 +5,3 @@ profile:
   default: en
   group: 
     - [en, ko]
-    
-execute:
-  freeze: auto
