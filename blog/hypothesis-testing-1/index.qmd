@@ -1,7 +1,7 @@
 ---
 title: "Hypothesis Testing (1)"
 date: "2023-11-07"
-date-modified: "2023-11-12"
+date-modified: "2023-11-18"
 categories: [parameter, null hypothesis, type 1 error, significance level, status quo, decision making]
 page-navigation: true
 language: 
