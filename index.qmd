@@ -40,7 +40,7 @@ Eyewear Brand #2 \| Brand Marketer \| -
 
 서강대학교에서 기계공학과와 경영학과를 전공하고 있습니다. 대학교에서 통계학과 AI에 관심을 갖고, 관련 커리큘럼을 진행하고 있습니다.
 
-R, RStudio를 활용하여 어러가지 프로젝트를 진행하고 있습니다. 이 블로그 또한 RStudio IDE와 Quarto 라는 퍼블리싱 시스템을 사용하고 있습니다. Quarto에 관심있으시다면 [Quarto 공식 홈페이지](https://quarto.org/)를 참고해주세요
+R, RStudio를 활용하여 어러가지 프로젝트를 진행하고 있습니다. 이 블로그 또한 RStudio IDE와 Quarto 라는 퍼블리싱 시스템을 사용하고 있습니다. Quarto에 관심있으시다면 [Quarto 공식 홈페이지](https://quarto.org/)를 참고해주세요.
 
 ## 학력
 
