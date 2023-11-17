@@ -1,5 +1,4 @@
 ---
-sidebar: True
 listing:
  contents: blog
  sort: "date desc"
