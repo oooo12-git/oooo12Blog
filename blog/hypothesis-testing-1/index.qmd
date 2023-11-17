@@ -5,7 +5,8 @@ date-modified: "2023-11-12"
 categories: [parameter, null hypothesis, type 1 error, significance level, status quo, decision making]
 page-navigation: true
 language: 
-  title-block-modified: "수정"
+  ko-KR:
+   title-block-modified: "수정"
 toc: true
 ---
 ::: {.content-visible when-profile="en"}
