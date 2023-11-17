@@ -27,7 +27,7 @@ website:
         href: ..
 
   page-footer: 
-    left: "Copyright 2023, Jaa Hyun Kim"
+    left: "Copyright 2023, Jae Hyun Kim"
     center: "이 블로그는 Quarto 와 Rstudio를 활용하여 만들고 있습니다."
     right: 
       - icon : github
@@ -41,7 +41,7 @@ lang: ko-KR
 
 format:
   html:
-    mainfont: SOGANG-UNIVERSITY
+    mainfont: san-serif
     fontsize: 0.9 em
     linestretch: 1.7
     grid: 

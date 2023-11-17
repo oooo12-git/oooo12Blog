@@ -1,5 +1,5 @@
 ---
-title: oooo12(Jaa Hyun Kim)
+title: Jae Hyun Kim
 about: 
   template: solana
   id: hero-heading
@@ -26,7 +26,6 @@ I am majoring in Mechanical Engineering and Business Administration at Sogang Un
 
 ## Education
 
-1
 Sogang Univ, Seoul\
 B.A in Mechanical Eng. & Business Management \| March 2012 - August 2023(graduating soon)
 

@@ -28,7 +28,7 @@ website:
       
     
   page-footer: 
-    left: "Copyright 2023, Jaa Hyun Kim"
+    left: "Copyright 2023, Jae Hyun Kim"
     center: "This blog is being created using Quarto and Rstudio."
     right: 
       - icon : github
@@ -40,7 +40,7 @@ website:
 
 format:
   html:
-    mainfont: Josefin Sans
+    mainfont: san-serif
     fontsize: 1.1em
     linestretch: 1.7
     grid: 
