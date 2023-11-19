@@ -30,6 +30,15 @@ Quarto는 R과 통계학을 공부하면서 자연스럽게 관심을 갖게 되
 
 이런 나와 비슷한 과정을 거칠 수 있는 사람들에게 조금이나마 도움이 될만한 가이드를 제공하고자 이렇게 글을 남긴다.
 
+:::{.callout-important}
+
+이 글은 [Mario Angst의 'A multi-language (German/ English) Quarto website'](https://quarto-dev.marioangst.com/en/blog/posts/multi-language-quarto/
+)글을 많은 부분에서 참고하여 그가 구현한 방식을 따르고 있다. 
+
+이 글로 부족한 부분이 있다면, Mario Angst의 방식을 따라보는 것이 효과적인 해결책이 될 것이다.
+
+:::
+
 ::: {.callout-warning}
 가이드는 처음 블로그를 만드는 것 부터 시작하진 않는다. 
 
@@ -135,6 +144,15 @@ Sadly, it didn’t turn out exactly as I imagined. Instead of switching posts, c
 Still, the process of creating it was quite challenging for me, who had no understanding of Quarto, YAML, blog structure, or publishing.
 
 I write this post to provide a guide that might help others who may go through a similar process.
+
+::: {.callout-important}
+
+This article draws heavily from [Mario Angst's 'A multi-language (German/ English) Quarto website'](https://quarto-dev.marioangst.com/en/blog/posts/multi-language-quarto/
+) and follows the approach he implemented. 
+
+If there are any shortcomings in this article, adopting Mario Angst's method would be an effective solution.
+
+:::
 
 ::: {.callout-warning}
 This guide does not start with creating a blog from scratch.
