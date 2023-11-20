@@ -42,7 +42,7 @@ Quarto는 R과 통계학을 공부하면서 자연스럽게 관심을 갖게 되
 ::: {.callout-warning}
 가이드는 처음 블로그를 만드는 것 부터 시작하진 않는다. 
 
-블로그 만들기를 시작 못한 분들은 Quarto 공식홈페이지의 가이드를 따르기 바란다. 
+블로그 만들기를 시작 못한 분들은 [Quarto 공식홈페이지의 가이드](https://quarto.org/docs/websites/website-blog.html)를 따르기 바란다. 
 
 다만 아래 준비물까지는 읽고 Quarto 공식 홈페이지 가이드를 따르는 것이 시행착오를 줄일 수 있을 것이다.
 :::
@@ -78,7 +78,7 @@ terminal에 `quarto check`를 입력하면 아래와 같이 Quarto의 버전을 
 
 ### Netlify
 
-애초에 netlify를 선택한 이유는 
+netlify를 선택한 이유는 
 
 1. 많은 유저가 사용하고 있으며
 2. github와 연동성이 좋기 때문이다.
@@ -105,7 +105,7 @@ terminal에 `quarto check`를 입력하면 아래와 같이 Quarto의 버전을 
 
 흐름을 알고나면 이후 설명들이 더 쉽게 느껴질 것이다.
 
-bottom-up 방식으로 설명하는 편이 좋을 것 같아, 결과물부터 역으로 돌아가는 흐름으로 설명하겠다. 
+결과물(배포)부터 역으로 돌아가는 흐름으로 설명하겠다. 
 
 ### 1.1 netlify 배포
 
@@ -137,9 +137,9 @@ I became interested in Quarto while studying R and statistics, but recently, as 
 
 Anyway, my recent project involved using Quarto to implement a multi-language Blog (or bilingual blog).
 
-As I first imagined, when viewing a Korean post, clicking the 'English' button should have immediately switched to an English post.
+As I first imagined, when viewing an English post, clicking the '한국어' button should have immediately switched to a Korean post.
 
-Sadly, it didn’t turn out exactly as I imagined. Instead of switching posts, clicking the 'English' button takes you to the English home page, where you can enjoy English content.
+Sadly, it didn’t turn out exactly as I imagined. Instead of switching posts, clicking the '한국어' button takes you to the Korean home page, where you can enjoy Korean content.
 
 Still, the process of creating it was quite challenging for me, who had no understanding of Quarto, YAML, blog structure, or publishing.
 
@@ -157,7 +157,7 @@ If there are any shortcomings in this article, adopting Mario Angst's method wou
 ::: {.callout-warning}
 This guide does not start with creating a blog from scratch.
 
-For those who haven't started making a blog, please follow the guide on Quarto's official website.
+For those who haven't started making a blog, please follow the guide on [Quarto's official website](https://quarto.org/docs/websites/website-blog.html).
 
 However, it might be helpful to read through the materials below before following the Quarto official website guide to reduce trial and error.
 :::
@@ -192,16 +192,16 @@ You can check the version of Quarto by typing `quarto check` in the terminal:
 
 ### Netlify
 
-I initially chose Netlify because:
+I chose Netlify because:
 
 1. Many users use it, and
 2. It integrates well with GitHub.
 
 Especially, the service where Netlify automatically carries out building and deploying simultaneously with GitHub commits was exactly the killer product I wanted.
 
-However, due to the imperfections of Quarto (?), you have to use the command line to deploy on Netlify in the way you want using the project profile.
+However, due to the imperfections(?) of Quarto, you have to use the command line to deploy on Netlify in the way you want using the project profile.
 
-Surprisingly, the command line method is intuitive, and I am very satisfied with it now.
+However, despite the unfortunate circumstance, the command line method is intuitive, and I am very satisfied with it now.
 
 In this guide, I use Netlify, so I recommend beginners to use Netlify as well.
 
@@ -215,11 +215,11 @@ If you use Netlify plugins or GitHub actions, the blog may not operate as intend
 
 ## 1. The Big Picture
 
-Before starting the explanation, let's briefly overview how I implemented the Korean-English switch.
+Before I begin the explanation, I will briefly overview how I implemented the Korean-English blog.
 
 Knowing the flow will make the following explanations easier to understand.
 
-I think it's better to explain in a bottom-up manner, so I will describe it in reverse, starting from the final product.
+I will explain in a reverse order, starting from the final product (deployment).
 
 ### 1.1 Netlify Deployment
 
@@ -233,7 +233,7 @@ Then, how do we create the output in the _site folder?
 
 Quarto renders qmd files (cmd+shift+k) and creates output in the _site folder applying pre-set options.
 
-For example, if you render the index.qmd file in the root workspace, it creates an index.html file considering the _site folder as the new root folder.
+For example, if you render the index.qmd file in the root workspace, It creates an index.html file in the _site folder, considering the _site folder as the new root folder..
 
 This index.html file becomes the main page when you enter the blog at https://oooo12.ooo.
 
@@ -261,9 +261,7 @@ I created a blog folder in the root folder, and this blog folder contains posts 
 
 Then, I create a hypothesis-testing-1 folder in the blog folder and create an index.qmd inside it (this is different from the previously mentioned index.qmd, only the name is the same).
 
-After writing content in this index.qmd and rendering it, a hypothesis-testing-1 folder is created inside the blog folder in the _site folder, and an index.html
-
- file is created within it.
+After writing content in this index.qmd and rendering it, a hypothesis-testing-1 folder is created inside the blog folder in the _site folder, and an index.html file is created within it.
  
 :::
 
