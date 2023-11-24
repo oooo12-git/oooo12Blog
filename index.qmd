@@ -6,18 +6,18 @@ about:
   image: profile1.jpeg
   image-width: 20em
   links:
+    - icon: chat-square-quote
+      text: Blog(EN)
+      href: ../blog.html
+    - icon: chat-square-quote-fill
+      text: Blog(KR)
+      href: ../ko/blog.html
     - icon: github
       text: Github
       href: https://github.com/oooo12-git
-    - icon: quote
-      text: Tistory
-      href: https://oooo12.tistory.com/ 
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/oooo12
-    - icon : instagram
-      text: Instagram
-      href: https://www.instagram.com/jaahyunssi/
 ---
 
 ::: {#hero-heading .content-visible when-profile="en"}
@@ -27,7 +27,7 @@ I am majoring in Mechanical Engineering and Business Administration at Sogang Un
 ## Education
 
 Sogang Univ, Seoul\
-B.A in Mechanical Eng. & Business Management \| March 2012 - August 2023(graduating soon)
+B.A in Mechanical Eng. & Business Management \| March 2012 - August 2024(graduating soon)
 
 ## Experience
 
@@ -44,7 +44,7 @@ R, RStudio를 활용하여 어러가지 프로젝트를 진행하고 있습니�
 ## 학력
 
 서강대학교\
-기계공학, 경영학 복수전공 \| 2012년 - 2023년 8월 졸업예정
+기계공학, 경영학 복수전공 \| 2012년 - 2024년 8월 졸업예정
 
 ## 경력
 

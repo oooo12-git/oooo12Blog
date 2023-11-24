@@ -386,21 +386,20 @@ For this, you need to set up profiles in YAML, and mark the content inside the q
 
 ### 1.5 Content-Visible When-Profile
 
-To compose content visible per profile, you must use `::: {.content-visible when-profile="ko"}
-`.
+To compose content visible per profile, you must use `::: {.content-visible when-profile="ko"}`.
 
 It's so well-coded that it doesn't need more explanation, but to put it simply, it means to show content when the profile is ko.
 
 It is used as follows:
 
 ```
-::: {.content-visible when-profile="ko"}
+::: {.content-visible when-profile="en"}
 Statistical hypothesis testing, when explained plainly, means to "test a statistical hypothesis."
 
 To understand hypothesis testing, it's necessary to know exactly what a 'statistical hypothesis' is.
 ::: 
 
-::: {.content-visible when-profile="en"}
+::: {.content-visible when-profile="ko"}
 
 통계적 가설 검정을 그대로 풀어보면, "'통계적 가설(statistical hypothesis)'을 '검정(test)'한다"이다.
  
@@ -856,9 +855,7 @@ and the part that should appear in the Korean blog should be placed between
 
 ## 4. Adding Korean-English Toggle in the Navbar
 
-On the PC screen, you will see an 'English' button in the top right corner.
-
-This is because you are viewing the Korean version.
+On the PC screen, If you are viewing the Korean version, you will see an 'English' button in the top right corner.
 
 To display the English button on the navbar for users viewing the Korean version, set the navbar option in
 
@@ -922,7 +919,7 @@ website:
         href: ../ko/blog.html
 ```
 
-If you set the href of the Blog menu in the Korean version blog the same as the English version, it will return to the English version every time you click blog.
+If you set the href of the Blog menu in the Korean version blog the same as the English version, it will return to the English version every time you click Blog.
 
 Be careful.
 
