@@ -15,6 +15,8 @@ website:
     left:
       - text: "Blog"
         href: ./blog.qmd
+      - text: "TIL"
+        href: ./TIL.qmd
       - icon : github
         href: https://github.com/oooo12-git
       - icon: linkedin

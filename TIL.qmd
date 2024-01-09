@@ -1,0 +1,11 @@
+---
+listing:
+ contents: TIL
+ sort: "date desc"
+ type: table
+ fields: [date, title, categories]
+ feed: true
+ categories: true
+ sort-ui: false
+ filter-ui: false
+---

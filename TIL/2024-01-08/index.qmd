@@ -1,0 +1,57 @@
+---
+title: "TIL on MON"
+date: "2024-01-08"
+categories: [list, data structure, PY4E, python, fairness, coursera, data modeling, SQL]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### PY4E
+
+- 부스트코스(네이버)
+
+![](./images/1.jpeg)
+![](./images/2.jpeg)
+
+### Google data analytics certificate - course1 - foundations data data everywhere
+
+- coursera
+
+![](./images/3.jpeg)
+
+### SQL
+
+- youtube
+
+![](./images/4.jpeg)
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### PY4E
+
+- BoostCourse(Naver)
+
+![](./images/1.jpeg)
+
+![](./images/2.jpeg)
+
+### Google data analytics certificate - course1 - foundations data data everywhere
+
+- coursera
+
+![](./images/3.jpeg)
+
+### SQL
+
+- youtube
+
+![](./images/4.jpeg)
+
+:::
