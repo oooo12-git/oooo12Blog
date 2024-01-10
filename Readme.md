@@ -4,7 +4,7 @@
 
 ![](./images4Readme/1.png)
 
-## What is Quarto
+## What is Quarto?
 
 ![](https://quarto.org/quarto.png)
 
@@ -18,9 +18,15 @@ html, docx, pptx, pdf 등 여러 output을 만들어낼 수 있습니다.
 
 더 자세한 사항은 https://quarto.org/ 를 참고하세요.
 
-## Why are you using Quarto?
+## Why were you using Quarto?
 
-R에 푹 빠져있던 2023년 어느 날, Quarto를 알게 되어 블로그를 홀린 듯이 만들었습니다.
+R에 푹 빠져있던 2023년 어느 날, Quarto를 알게 되어 블로그를 홀린 듯이 만들었습니다. 😵‍💫
+
+## How did you make Bilingual Blog with Quarto?
+
+Quarto의 profile 기능을 사용했습니다.
+
+자세한 내용은 저의 [블로그 포스트](https://oooo12.ooo/blog/multilanguage-blog-with-quarto/)를 확인해주세요. 😌 
 
 ## History
 
