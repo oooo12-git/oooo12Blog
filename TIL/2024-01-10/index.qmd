@@ -1,0 +1,52 @@
+---
+title: "TIL on WED"
+date: "2024-01-10"
+categories: [basis, linear algebra, Dictionary, key, value, get, PY4E, python]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### [칸아카데미] 모두를 위한 선형대수학
+
+- 부스트코스(네이버)
+
+![](./images/1.jpeg)
+
+### 모두를 위한 파이썬 PY4E
+
+- 부스트코스(네이버)
+
+![](./images/2.jpeg)
+
+![](./images/3.jpeg)
+
+![](./images/4.jpeg)
+
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### [Khan academy] Linear Algebra
+
+- BoostCourse(Naver)
+
+![](./images/1.jpeg)
+
+### PY4E
+
+- BoostCourse(Naver)
+
+![](./images/2.jpeg)
+
+![](./images/3.jpeg)
+
+![](./images/4.jpeg)
+
+
+:::
