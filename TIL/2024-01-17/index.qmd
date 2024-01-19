@@ -1,0 +1,127 @@
+---
+title: "TIL on WED"
+date: "2024-01-17"
+categories: [machine learning, model, polynomial regression, overfitting, underfitting, k-fold cross-validation, deep learning, binary classification, logistic regression, sigmoid function, loss function, cost function, gradient descent
+]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### Overfitting vs Underfitting: A complete Example
+
+- Will Koehrsen, Senior Machine Learning Engineer at Cortex Sustainability Intelligence
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+machine learning, model
+:::
+
+![](./images/Scan 1.jpeg)
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+polynomial regression
+:::
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+overfitting, underfitting
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+k-fold cross-validation
+:::
+
+![](./images/Scan 5.jpeg)
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+deep learning, binary classification 
+:::
+
+![](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+logistic regression, sigmoid function, loss function, cost function
+:::
+
+![](./images/Scan 8.jpeg)
+
+:::{.callout-note}
+gradient descent
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### Overfitting vs Underfitting: A complete Example
+
+- Will Koehrsen, Senior Machine Learning Engineer at Cortex Sustainability Intelligence
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+machine learning, model
+:::
+
+![](./images/Scan 1.jpeg)
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+polynomial regression
+:::
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+overfitting, underfitting
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+k-fold cross-validation
+:::
+
+![](./images/Scan 5.jpeg)
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+deep learning, binary classification, 
+:::
+
+![](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+logistic regression, sigmoid function, loss function, cost function
+:::
+
+![](./images/Scan 8.jpeg)
+
+:::{.callout-note}
+gradient descent
+:::
+
+:::

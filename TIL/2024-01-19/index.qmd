@@ -1,0 +1,108 @@
+---
+title: "TIL on FRI"
+date: "2024-01-19"
+categories: [deep learning, back propagation, logistic regression, vectorization, SIMD, broadcasting, likelihood
+]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+deep learning, back propagation
+:::
+
+![](./images/Scan 1.jpeg)
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+logistic regression
+:::
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+vectorization
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+SIMD
+:::
+
+![](./images/Scan 5.jpeg)
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+broadcasting
+:::
+
+![](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+likelihood
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+deep learning, back propagation
+:::
+
+![](./images/Scan 1.jpeg)
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+logistic regression
+:::
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+vectorization
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+SIMD
+:::
+
+![](./images/Scan 5.jpeg)
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+broadcasting
+:::
+
+![](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+likelihood
+:::
+
+:::

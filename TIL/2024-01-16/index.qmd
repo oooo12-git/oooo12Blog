@@ -1,0 +1,141 @@
+---
+title: "TIL on TUE"
+date: "2024-01-16"
+categories: [python, dynamic typing, memory, variables, list, deepcopy, packing, unpacking, formatting, padding, f-string, PEP, linear algebra, dot product, cross product, deep learning
+]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### 인공지능(AI) 기초다지기
+
+- 부스트코스(네이버) 가천대 최성철 교수님
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+python, dynamic typing, memory, variables
+:::
+
+![](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+list, deepcopy
+:::
+
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+packing, unpacking
+:::
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+formatting
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+padding
+:::
+
+![](./images/Scan 5.jpeg)
+
+:::{.callout-note}
+f-string, PEP
+:::
+
+### [칸아카데미]모두를 위한 선형대수학
+
+- 부스트코스(네이버)
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+linear algebra, dot product, cross product
+:::
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+deep learning
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### laying the foundation of Artificial Intelligence(AI) 
+
+- Boostcourse(Naver) Professor Choi Sung Chul, Gachon Univ. 
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+python, dynamic typing, memory, variables
+:::
+
+![](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+list, deepcopy
+:::
+
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+packing, unpacking
+:::
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+formatting
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+padding
+:::
+
+![](./images/Scan 5.jpeg)
+
+:::{.callout-note}
+f-string, PEP
+:::
+
+### [Khan Academy] Linear algebra
+
+- BoostCourse(Naver)
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+linear algebra, dot product, cross product
+:::
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+deep learning
+:::
+
+:::

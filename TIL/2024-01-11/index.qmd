@@ -1,0 +1,135 @@
+---
+title: "TIL on THU"
+date: "2024-01-11"
+categories: [ask, data analysis, object, OOP, memory, R, python, data independence, schema, instance, entity SQL]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### Google Data Analytics Certificate[Course2]
+
+- Coursera
+
+![](./images/1.jpeg)
+
+:::{.callout-note}
+ask
+:::
+
+![](./images/2.jpeg)
+
+### 인공지능을 위한 R과 Python
+
+- K-MOOC 서강대 이윤동 교수님
+
+![](./images/3.jpeg)
+
+:::{.callout-note}
+object, OOP
+:::
+
+![](./images/4.jpeg)
+
+:::{.callout-note}
+memory
+:::
+
+![](./images/5.jpeg)
+
+### SQL - 데이터베이스 실무
+
+- youtube 국민대 김남규 교수님
+
+![](./images/6.jpeg)
+
+:::{.callout-note}
+data independence
+:::
+
+![](./images/7.jpeg)
+
+![](./images/8.jpeg)
+
+:::{.callout-note}
+schema, instance
+:::
+
+![](./images/9.jpeg)
+
+:::{.callout-note}
+entity
+:::
+
+![](./images/10.jpeg)
+
+![](./images/11.jpeg)
+
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### Google Data Analytics Certificate[Course2]
+
+- Coursera
+
+![](./images/1.jpeg)
+
+:::{.callout-note}
+ask
+:::
+
+![](./images/2.jpeg)
+
+### R & Python for AI
+
+- K-MOOC - Professor Lee Yoon Dong, Sogang Univ.
+
+![](./images/3.jpeg)
+
+:::{.callout-note}
+object, OOP
+:::
+
+![](./images/4.jpeg)
+
+:::{.callout-note}
+memory
+:::
+
+![](./images/5.jpeg)
+
+### SQL - Practical Database
+
+- youtube - Professor Kim Nam Gyu, Kookmin Univ.
+
+![](./images/6.jpeg)
+
+:::{.callout-note}
+data independence
+:::
+
+![](./images/7.jpeg)
+
+![](./images/8.jpeg)
+
+:::{.callout-note}
+schema, instance
+:::
+
+![](./images/9.jpeg)
+
+:::{.callout-note}
+entity
+:::
+
+![](./images/10.jpeg)
+
+![](./images/11.jpeg)
+
+:::
