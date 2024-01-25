@@ -1,0 +1,112 @@
+---
+title: "TIL on SUN"
+date: "2024-01-21"
+categories: [deep learning, neural networks, activation, vectorizing, activation function, gradient descent, random initialization
+]
+page-navigation: true
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+deep learning, neural networks
+:::
+
+![](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+activation
+:::
+
+![](./images/Scan 2.jpeg)
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+vectorizing
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+activation function
+:::
+
+![](./images/Scan 5.jpeg)
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+gradient descent
+:::
+
+![](./images/Scan 7.jpeg)
+
+![](./images/Scan 8.jpeg)
+
+:::{.callout-note}
+random initialization
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+![](./images/Scan.jpeg)
+
+:::{.callout-note}
+deep learning, neural networks
+:::
+
+![](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+activation
+:::
+
+![](./images/Scan 2.jpeg)
+
+![](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+vectorizing
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+activation function
+:::
+
+![](./images/Scan 5.jpeg)
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+gradient descent
+:::
+
+![](./images/Scan 7.jpeg)
+
+![](./images/Scan 8.jpeg)
+
+:::{.callout-note}
+random initialization
+:::
+
+:::

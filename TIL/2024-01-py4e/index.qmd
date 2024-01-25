@@ -1,0 +1,164 @@
+---
+title: "TIL about PY4E"
+date: "2024-01-06"
+categories: [ python, indentation, iteration variable, continue, indefinite loop, definite loop, grab line, hunting, is, string, method, object oriented function, parsing
+]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+:::{.callout-warning}
+1월 7일 이전에 들은 PY4E 강의 필기본(+키워드)을 저장해둔 페이지입니다.
+:::
+
+### 모두를 위한 파이썬 PY4E
+
+- 부스트코스(네이버) Charles Severance
+
+::: {layout-ncol=2}
+
+![python, indentation](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+python, indentation
+:::
+
+
+![iteration variable](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+iteration variable
+:::
+
+![continue, indefinite loop, definite loop](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+continue, indefinite loop, definite loop
+:::
+
+![grab line](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+grab line
+:::
+
+![hunting](./images/Scan 5.jpeg)
+
+:::{.callout-note}
+hunting
+:::
+
+![is](./images/Scan 6.jpeg)
+
+
+:::{.callout-note}
+is
+:::
+
+![string](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+string
+:::
+
+![method , object oriented function](./images/Scan 8.jpeg)
+
+:::{.callout-note}
+method , object oriented function
+:::
+
+![parsing](./images/Scan 9.jpeg)
+:::{.callout-note}
+
+parsing
+
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+:::{.callout-warning}
+This page contains my lecture notes (including keywords) for PY4E that I reviewed before January 7th.
+:::
+
+### PY4E
+
+- BoostCourse(Naver) Charles Severance
+
+::: {layout-ncol=2}
+
+![python, indentation](./images/Scan 1.jpeg)
+
+::: {.callout-note}
+
+python, indentation
+
+:::
+
+![iteration variable](./images/Scan 2.jpeg)
+
+::: {.callout-note}
+
+iteration variable
+
+:::
+
+
+
+![continue, indefinite loop, definite loop](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+continue, indefinite loop, definite loop
+:::
+
+![grab line](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+grab line
+:::
+
+![hunting](./images/Scan 5.jpeg)
+
+:::{.callout-note}
+hunting
+:::
+
+![is](./images/Scan 6.jpeg)
+
+
+:::{.callout-note}
+is
+:::
+
+![string](./images/Scan 7.jpeg)
+
+:::{.callout-note}
+string
+:::
+
+![method , object oriented function](./images/Scan 8.jpeg)
+
+:::{.callout-note}
+method , object oriented function
+:::
+
+![parsing](./images/Scan 9.jpeg)
+
+:::{.callout-note}
+
+parsing
+
+:::
+
+:::
+
+:::

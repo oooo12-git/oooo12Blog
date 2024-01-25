@@ -1,0 +1,88 @@
+---
+title: "TIL on TUE"
+date: "2024-01-23"
+categories: [ R, python, string, vector arithmetic, zip, enumerate, where
+]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### 인공지능을 위한 R과 Python
+
+- K-MOOC 서강대 이윤동 교수님
+
+
+::: {layout-ncol=2}
+
+![R, python, string](./images/Scan.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+R, python, string
+:::
+
+![vector arithmetic, zip](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+vector arithmetic, zip
+:::
+
+![enumerate](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+enumerate (참고 [링크 - Python enumerate 함수 - 홍찬기](https://hckcksrl.medium.com/python-enumerate-b19ad6b94c00#:~:text=1-,enumerate%20%EB%8A%94%20%EC%97%B4%EA%B1%B0%ED%95%98%EB%8B%A4%EB%9D%BC%EB%8A%94%20%EB%8B%A8%EC%96%B4%EC%9D%B4%EB%8B%A4.,%EB%AC%B8%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4.))
+:::
+
+![where](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+where
+:::
+
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### R & Python for AI
+
+- K-MOOC - Professor Lee Yoon Dong, Sogang Univ.
+
+
+::: {layout-ncol=2}
+
+![R, python, string](./images/Scan.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+R, python, string
+:::
+
+![vector arithmetic, zip](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+vector arithmetic, zip
+:::
+
+![enumerate](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+enumerate (reference [link - Python enumerate 함수 - 홍찬기](https://hckcksrl.medium.com/python-enumerate-b19ad6b94c00#:~:text=1-,enumerate%20%EB%8A%94%20%EC%97%B4%EA%B1%B0%ED%95%98%EB%8B%A4%EB%9D%BC%EB%8A%94%20%EB%8B%A8%EC%96%B4%EC%9D%B4%EB%8B%A4.,%EB%AC%B8%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4.))
+:::
+
+![where](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+where
+:::
+
+:::
+
+:::

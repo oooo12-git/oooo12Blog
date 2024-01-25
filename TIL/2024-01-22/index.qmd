@@ -1,0 +1,117 @@
+---
+title: "TIL on MON"
+date: "2024-01-22"
+categories: [deep learning, deep neural networks, DNN, back propagation, forward propagation, matrix dimensions in DNN, hyperparameter
+]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+![deep learning, deep neural networks, DNN](./images/Scan.jpeg)
+
+:::{.callout-note}
+deep learning, deep neural networks, DNN
+:::
+
+![back propagation, forward propagation](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+back propagation, forward propagation
+:::
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+:::
+
+![matrix dimensions in DNN](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+matrix dimensions in DNN
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+:::
+
+![hyperparameter](./images/Scan 5.jpeg)
+
+:::{.callout-note}
+hyperparameter
+:::
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+:::
+
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### Deep Learning Specialization[Course1]
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+::: {layout-ncol=2}
+
+![deep learning, deep neural networks, DNN](./images/Scan.jpeg)
+
+:::{.callout-note}
+deep learning, deep neural networks, DNN
+:::
+
+![back propagation, forward propagation](./images/Scan 1.jpeg)
+
+:::{.callout-note}
+back propagation, forward propagation
+:::
+
+![](./images/Scan 2.jpeg)
+
+:::{.callout-note}
+:::
+
+![matrix dimensions in DNN](./images/Scan 3.jpeg)
+
+:::{.callout-note}
+matrix dimensions in DNN
+:::
+
+![](./images/Scan 4.jpeg)
+
+:::{.callout-note}
+:::
+
+![hyperparameter](./images/Scan 5.jpeg)
+
+:::{.callout-note}
+hyperparameter
+:::
+
+![](./images/Scan 6.jpeg)
+
+:::{.callout-note}
+:::
+
+:::
+
+:::

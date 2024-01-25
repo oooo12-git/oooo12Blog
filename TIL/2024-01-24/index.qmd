@@ -1,0 +1,52 @@
+---
+title: "TIL on WED"
+date: "2024-01-24"
+categories: [ R, python, string, vector arithmetic, zip, enumerate, where
+]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+### Python for Data Analysis
+
+- Wes Mckinney
+
+
+::: {layout-ncol=2}
+
+![python, kernel, method, namespace, module, error message, escape, hashablility, set](./images/Scan.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+python, kernel, method, namespace, module, error message, escape, hashablility, set
+:::
+
+:::
+
+:::
+
+::: {.content-visible when-profile="en"}
+
+### Python for Data Analysis
+
+- Wes Mckinney
+
+
+::: {layout-ncol=2}
+
+![python, kernel, method, namespace, module, error message, escape, hashablility, set](./images/Scan.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+python, kernel, method, namespace, module, error message, escape, hashablility, set
+:::
+
+:::
+
+:::
