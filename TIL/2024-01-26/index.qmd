@@ -1,0 +1,174 @@
+---
+title: "TIL on FRI"
+date: 2024-01-26
+categories: [train set, dev set, test set, bias, variance, underfitting, overfitting, bayes error, bigger network more data, regularization, L2 regularization, dropout regularization, inverted dropout technique, OOP, piping, chaining, dplyr, SQL, ggplot]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+
+### Deep Learning Specialization[Course2]
+
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+
+![train set, dev set, test set](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+train set, dev set, test set
+:::
+
+![bias, variance, underfitting, overfitting, bayes error](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+bias, variance, underfitting, overfitting, bayes error
+:::
+
+![bigger network more data](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+bigger network more data
+:::
+
+![regularization, L2 regularization](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+regularization, L2 regularization
+:::
+
+![dropout regularization, inverted dropout technique](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+dropout regularization, inverted dropout technique
+:::
+
+![inverted dropout technique](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+inverted dropout technique
+:::
+
+:::
+
+### 인공지능을 위한 R과 Python
+
+
+- K-MOOC 서강대 이윤동 교수님
+
+::: {layout-ncol=2}
+
+![OOP, piping, chaining](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+OOP, piping, chaining
+:::
+
+![dplyr, SQL](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+dplyr, SQL
+:::
+
+![dplyr, SQL, ggplot](./images/Scan 8.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+dplyr, SQL, ggplot
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+### Deep Learning Specialization[Course2]
+
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+
+![train set, dev set, test set](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+train set, dev set, test set
+:::
+
+![bias, variance, underfitting, overfitting, bayes error](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+bias, variance, underfitting, overfitting, bayes error
+:::
+
+![bigger network more data](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+bigger network more data
+:::
+
+![regularization, L2 regularization](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+regularization, L2 regularization
+:::
+
+![dropout regularization, inverted dropout technique](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+dropout regularization, inverted dropout technique
+:::
+
+![inverted dropout technique](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+inverted dropout technique
+:::
+
+:::
+
+### R & Python for AI
+
+
+- K-MOOC - Professor Lee Yoon Dong, Sogang Univ.
+
+::: {layout-ncol=2}
+
+![OOP, piping, chaining](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+OOP, piping, chaining
+:::
+
+![dplyr, SQL](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+dplyr, SQL
+:::
+
+![dplyr, SQL, ggplot](./images/Scan 8.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+dplyr, SQL, ggplot
+:::
+
+:::
+
+:::

@@ -1,0 +1,58 @@
+---
+title: "TIL on THU"
+date: 2024-01-25
+categories: [R,RPA,Quarto]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+
+### TIL 과정 부분 자동화
+
+- TIL 과정 중 블로그 업로드를 위한 포스팅 템플레이트를 스캔본(이미지)갯수 만큼 만드는 과정 자동화 - R function 이용
+
+
+::: {layout-ncol=2}
+
+
+![RPA를 위한 TIL 과정 기록 및 RPA 대상 선택](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+RPA를 위한 TIL 과정 기록 및 RPA 대상 선택
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+### Automating the TIL Process
+
+
+- Automate the creation of blog post templates for uploading during the TIL process, using an R function to generate templates according to the number of scanned copies (images).
+
+::: {layout-ncol=2}
+
+
+![Recording the TIL Process for RPA and Selecting Targets for RPA Implementation](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+Recording the TIL Process for RPA and Selecting Targets for RPA Implementation
+:::
+
+:::
+
+:::

@@ -1,7 +1,7 @@
 ---
 title: "TIL on WED"
 date: "2024-01-24"
-categories: [ R, python, string, vector arithmetic, zip, enumerate, where
+categories: [ python, kernel, method, namespace, module, error message, escape, hashablility, set
 ]
 page-navigation: true
 lightbox: 
