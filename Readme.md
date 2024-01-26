@@ -1,8 +1,16 @@
 # Tech Blog using Quarto
 
-이 레포는 [Quarto](https://quarto.org/)를 활용하여 만든 Bilingual 블로그의 구조를 담고있습니다.
+이 레포는 [Quarto](https://quarto.org/)를 활용하여 만든 [Bilingual 블로그](https://oooo12.ooo/blog/multilanguage-blog-with-quarto/)의 구조를 담고있습니다.
 
 ![](./images4Readme/1.png)
+
+## History
+
+* 2023-11-07 개설
+* 2023-11-08 첫 게시물 업로드
+* 2023-11-12 도메인(oooo12.ooo)구매
+* 2024-01-09 TIL 메뉴 추가
+* 2024-01-26 [TIL 업로드 자동화](https://github.com/oooo12-git/R-RPA_new-post-to-TIL) 사용
 
 ## What is Quarto?
 
@@ -28,10 +36,7 @@ Quarto의 profile 기능을 사용했습니다.
 
 자세한 내용은 저의 [블로그 포스트](https://oooo12.ooo/blog/multilanguage-blog-with-quarto/)를 확인해주세요. 😌 
 
-## History
 
-* 2023-11-07 개설
-* 2023-11-08 첫 게시물 업로드
-* 2023-11-12 도메인(oooo12.ooo)구매
-* 2024-01-09 TIL 메뉴 추가
-* 2024-01-26 [TIL 업로드 자동화](https://github.com/oooo12-git/R-RPA_new-post-to-TIL) 사용
+
+
+
