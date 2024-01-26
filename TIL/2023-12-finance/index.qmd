@@ -1,0 +1,268 @@
+---
+title: "TIL about Finance"
+date: 2023-12-31
+categories: [finance,cash flow,CFFA,OCF,NWC,CAPEX,NPV,IRR,capital budgeting,mutually exclusive,risk,risk premium,beta,CAPM,cost of capital,WACC,raising capital,rights offering,capital structure, MM propositions,DE ratio]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+:::{.callout-warning}
+2023년도 2학기에 들은 재무관리 백지 요약본입니다.
+:::
+
+### 재무관리
+
+
+- 서강대학교 2023학년도 2학기 안성필 교수님
+
+
+::: {layout-ncol=2}
+
+
+![finance,cash flow,CFFA,OCF,NWC,CAPEX](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+finance,cash flow,CFFA,OCF,NWC,CAPEX
+:::
+
+![CFFA](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+CFFA
+:::
+
+![NPV,IRR,capital budgeting](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+NPV,IRR,capital budgeting
+:::
+
+![](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+:::
+
+![mutually exclusive](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+mutually exclusive
+:::
+
+![risk,risk premium](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+risk,risk premium
+:::
+
+![risk, risk premium](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+risk, risk premium
+:::
+
+![beta,CAPM](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+beta,CAPM
+:::
+
+![CAPM](./images/Scan 8.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+CAPM
+:::
+
+![cost of capital,WACC](./images/Scan 9.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+cost of capital,WACC
+:::
+
+![WACC](./images/Scan 10.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+WACC
+:::
+
+![raising capital,rights offering](./images/Scan 11.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+raising capital,rights offering
+:::
+
+![subscription price](./images/Scan 12.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+subscription price
+:::
+
+![capital structure, MM propositions](./images/Scan 13.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+capital structure, MM propositions
+:::
+
+![MM propositions](./images/Scan 14.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions
+:::
+
+![MM propositions](./images/Scan 15.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions
+:::
+
+![MM propositions, DE ratio](./images/Scan 16.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions, DE ratio
+:::
+
+![MM propositions](./images/Scan 17.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+:::{.callout-warning}
+This is a summary of lecture notes for Corporate Finance taken in the second semester of 2023.
+:::
+
+### Corporate Finance
+
+
+- 2023-2nd semester, Professor Ahn Seoung Pil Sogang Univ.
+
+
+::: {layout-ncol=2}
+
+
+![finance,cash flow,CFFA,OCF,NWC,CAPEX](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+finance,cash flow,CFFA,OCF,NWC,CAPEX
+:::
+
+![CFFA](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+CFFA
+:::
+
+![NPV,IRR,capital budgeting](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+NPV,IRR,capital budgeting
+:::
+
+![](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+:::
+
+![mutually exclusive](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+mutually exclusive
+:::
+
+![risk,risk premium](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+risk,risk premium
+:::
+
+![risk,risk premium](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+risk,risk premium
+:::
+
+![beta,CAPM](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+beta,CAPM
+:::
+
+![CAPM](./images/Scan 8.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+CAPM
+:::
+
+![cost of capital,WACC](./images/Scan 9.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+cost of capital,WACC
+:::
+
+![WACC](./images/Scan 10.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+WACC
+:::
+
+![raising capital,rights offering](./images/Scan 11.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+raising capital,rights offering
+:::
+
+![subscription price](./images/Scan 12.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+subscription price
+:::
+
+![capital structure, MM propositions](./images/Scan 13.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+capital structure, MM propositions
+:::
+
+![MM propositions](./images/Scan 14.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions
+:::
+
+![MM propositions](./images/Scan 15.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions
+:::
+
+![MM propositions , DE ratio](./images/Scan 16.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions , DE ratio
+:::
+
+![MM propositions](./images/Scan 17.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+MM propositions
+:::
+
+:::
+
+:::

@@ -1,0 +1,148 @@
+---
+title: "TIL about General Biology(2)"
+date: 2023-07-02
+categories: [photosynthesis, light reactions, calvin cycle, photophosphorylation, cell division, mitosis, G1 checkpoint, cancer, meiosis]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+:::{.callout-warning}
+2023년도 1학기에 들은 일반생물학 백지 요약본입니다.
+:::
+
+### 일반생물학(2)
+
+
+- 2023학년도 1학기 서강대학교 김건수 교수님
+
+
+::: {layout-ncol=2}
+
+
+![photosynthesis](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+photosynthesis
+:::
+
+![light reactions, calvin cycle](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+light reactions, calvin cycle
+:::
+
+![photophosphorylation](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+photophosphorylation
+:::
+
+![cell division](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+cell division
+:::
+
+![mitosis](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+mitosis
+:::
+
+![G1 checkpoint, cancer](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+G1 checkpoint, cancer
+:::
+
+![meiosis](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+meiosis
+:::
+
+![](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+:::{.callout-warning}
+This is a summary of lecture notes for General Biology taken in the first semester of 2023.
+:::
+
+### General Biology(2)
+
+
+- 2023 1st semester, Professor Kun-Soo Kim, Sogang Univ.
+
+
+::: {layout-ncol=2}
+
+
+![photosynthesis](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+photosynthesis
+:::
+
+![light reactions, calvin cycle](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+light reactions, calvin cycle
+:::
+
+![photophosphorylation](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+photophosphorylation
+:::
+
+![cell division](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+cell division
+:::
+
+![mitosis](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+mitosis
+:::
+
+![G1 checkpoint, cancer](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+G1 checkpoint, cancer
+:::
+
+![meiosis](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+meiosis
+:::
+
+![](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+:::
+
+:::
+
+:::

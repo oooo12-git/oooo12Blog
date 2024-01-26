@@ -1,0 +1,149 @@
+---
+title: "TIL about General Biology(1)"
+date: 2023-07-01
+categories: [amino acids,eukaryotic cell,membrane protein,ATP,enzyme,cellular respiration,glycolysis,TCA cycle,oxidative phosphorylation ]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+:::{.callout-warning}
+2023년도 1학기에 들은 일반생물학 백지 요약본입니다.
+:::
+
+### 일반생물학(1)
+
+
+- 2023학년도 1학기 서강대학교 김건수 교수님
+
+
+::: {layout-ncol=2}
+
+
+![amino acids](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+amino acids
+:::
+
+![eukaryotic cell](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+eukaryotic cell
+:::
+
+![membrane protein](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+membrane protein
+:::
+
+![ATP](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+ATP
+:::
+
+![enzyme](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+enzyme
+:::
+
+![cellular respiration](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+cellular respiration
+:::
+
+![glycolysis,TCA cycle,oxidative phosphorylation](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+glycolysis,TCA cycle,oxidative phosphorylation
+:::
+
+![fermentation](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+fermentation
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+:::{.callout-warning}
+This is a summary of lecture notes for General Biology taken in the first semester of 2023.
+:::
+
+### General Biology(1)
+
+
+- 2023 1st semester, Professor Kun-Soo Kim, Sogang Univ.
+
+::: {layout-ncol=2}
+
+
+![amino acids](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+amino acids
+:::
+
+![eukaryotic cell](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+eukaryotic cell
+:::
+
+![membrane protein](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+membrane protein
+:::
+
+![ATP](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+ATP
+:::
+
+![enzyme](./images/Scan 4.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+enzyme
+:::
+
+![cellular respiration](./images/Scan 5.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+cellular respiration
+:::
+
+![glycolysis,TCA cycle,oxidative phosphorylation](./images/Scan 6.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+glycolysis,TCA cycle,oxidative phosphorylation
+:::
+
+![fermentation](./images/Scan 7.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+fermentation
+:::
+
+:::
+
+:::
