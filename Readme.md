@@ -34,3 +34,4 @@ Quarto의 profile 기능을 사용했습니다.
 * 2023-11-08 첫 게시물 업로드
 * 2023-11-12 도메인(oooo12.ooo)구매
 * 2024-01-09 TIL 메뉴 추가
+* 2024-01-26 [TIL 업로드 자동화](https://github.com/oooo12-git/R-RPA_new-post-to-TIL) 사용
