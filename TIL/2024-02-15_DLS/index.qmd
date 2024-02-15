@@ -1,0 +1,172 @@
+---
+title: "TIL on THU about DLS"
+date: 2024-02-15
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+categories: [minibatch,SGD,stochastic gradient descent,exponentially weighted average,moving average,]
+---
+
+::: {.content-visible when-profile="ko"}
+
+
+### Deep Learning Specialization[Course2]
+
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+
+minibatch
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+### Deep Learning Specialization[Course2]
+
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+
+minibatch
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="ko"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+SGD,stochastic gradient descent
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+SGD,stochastic gradient descent
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="ko"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+exponentially weighted average,moving average
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+exponentially weighted average,moving average
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="ko"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+
+:::
+
+:::
+
+:::
+
+

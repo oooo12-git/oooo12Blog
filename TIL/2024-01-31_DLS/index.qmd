@@ -1,0 +1,172 @@
+---
+title: "TIL on WED about DLS"
+date: 2024-01-31
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+categories: [data augmentation,early stopping,normalizing,normalize,vanishing,exploding,random initialization,gradient checking]
+---
+
+::: {.content-visible when-profile="ko"}
+
+
+### Deep Learning Specialization[Course2]
+
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+
+data augmentation,early stopping,normalizing
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+### Deep Learning Specialization[Course2]
+
+
+- Coursera - Professor Andrew Ng, Stanford Univ.
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+
+data augmentation,early stopping,normalizing
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="ko"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+normalize,vanishing,exploding,random initialization
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+normalize,vanishing,exploding,random initialization
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="ko"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+gradient checking
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 2.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+gradient checking
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="ko"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+gradient checking
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan 3.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+
+gradient checking
+:::
+
+:::
+
+:::
+
+
